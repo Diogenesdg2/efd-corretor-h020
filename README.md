@@ -24,6 +24,7 @@ Muitos sistemas de gestão (ERPs) geram o ficheiro do SPED EFD omitindo o detalh
 ---
 
 💻 Interface Gráfica
+
 A interface foi construída com CustomTkinter para garantir uma experiência de utilizador agradável, suportando nativamente o modo Claro/Escuro do sistema operativo.
 
 (Adicione aqui uma captura de ecrã do seu sistema a funcionar! Basta arrastar a imagem para o GitHub ao editar este README)
@@ -34,6 +35,7 @@ app.py: Contém toda a lógica da Interface Gráfica (GUI) construída em Custom
 corrigir_h020serv.py: Módulo de serviço isolado contendo a regra de negócio (corrigir_h020_faltante()), processamento em memória e recálculo das matrizes do SPED.
 
 👨‍💻 Autor
+
 Desenvolvido por Diógenes Daniel Gomes
 
 Desenvolvimento de soluções e automações para a área Contábil/Fiscal.
