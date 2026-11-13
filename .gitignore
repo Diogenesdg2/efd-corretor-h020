@@ -1,0 +1,13 @@
+# Ambientes Virtuais
+venv/
+env/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Ficheiros do SPED e logs (para não subir dados de clientes)
+*.txt
+*.TXT
+*.log
